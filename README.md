@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+
+My name is Scott and I am a Master's student at Boston University studying Business Analytics. 
+
+
+
+### Experience/Expertise
+* Tax Accounting, Business, Finance
+* Data Analysis, Statistics, Machine Learning
+* Text Processing/Analytics
+
+### Technical Skills - (And how I use them)
+* Microsoft Excel - Financial Modeling, Data Processing, Fun Projects
+* Python - Almost Everything
+* R - Data Analysis, Machine Learning
+* Tableau - Data Visualization, Dashboards
+* SQL - Data Retrieval, Manipulation
+
+### Public Projects and Repositories 
+* 1040 Project - Modeling US Income Tax Return in Excel Workbook
+  * link - https://drive.google.com/drive/folders/1ZtIlHaZWFQKG-dd0nJMSenU5yyaIhIF1?usp=sharing
+* Chord Transposer - Web App - Transpose and Identify Key of Song
+  * link - http://sjmccoy.pythonanywhere.com/chords
+  
+
+
+
 <!--
 **jsmc17/jsmc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
