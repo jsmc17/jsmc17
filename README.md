@@ -19,10 +19,11 @@ My name is Scott and I am a Master's student at Boston University studying Busin
 
 ### Public Projects and Repositories 
 * 1040 Project - Modeling US Income Tax Return in Excel Workbook
-  * link - https://drive.google.com/drive/folders/1ZtIlHaZWFQKG-dd0nJMSenU5yyaIhIF1?usp=sharing
+  * link drive folder - https://drive.google.com/drive/folders/1ZtIlHaZWFQKG-dd0nJMSenU5yyaIhIF1?usp=sharing
+  * link to repository - https://github.com/jsmc17/1040_Project
 * Chord Transposer - Web App - Transpose and Identify Key of Song
-  * link - http://sjmccoy.pythonanywhere.com/chords
-  
+  * link to app - http://sjmccoy.pythonanywhere.com/chords
+  * link to repository - https://github.com/jsmc17/Song-Transposer
 
 
 
