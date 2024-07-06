@@ -1,21 +1,19 @@
 ### Hi there 👋
 
 
-My name is Scott and I am a Master's student at Boston University studying Business Analytics. 
-
+My name is Scott and I am a FinOps Professional based out of Seattle.
 
 
 ### Experience/Expertise
-* Tax Accounting, Business, Finance
-* Data Analysis, Statistics, Machine Learning
-* Text Processing/Analytics
+* FinOps Domain Knowledge
+* Data Analysis, Visualization, Engineering
+* Finance/Accounting Background
 
 ### Technical Skills - (And how I use them)
-* Microsoft Excel - Financial Modeling, Data Processing, Fun Projects
-* Python - Almost Everything
-* R - Data Analysis, Machine Learning
-* Tableau - Data Visualization, Dashboards
-* SQL - Data Retrieval, Manipulation
+* Microsoft Excel - Financial Modeling, Data Processing, Summarizing for Reports 
+* Python - Scripting, Automation
+* SQL - Data Retrieval, Manipulation, Analytics Engineering
+* Data Vizualization Tools - Dashboards, Reports (Quicksight, Tableau, etc...)
 
 ### Public Projects and Repositories 
 * 1040 Project - Modeling US Income Tax Return in Excel Workbook
